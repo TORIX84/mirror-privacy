@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mirror — Politique de confidentialité</title>
+  <style>
+    body {
+      background: #0a0a0a;
+      color: #888;
+      font-family: Georgia, serif;
+      max-width: 680px;
+      margin: 80px auto;
+      padding: 0 32px;
+      line-height: 1.8;
+      font-size: 15px;
+    }
+    h1 {
+      color: #fff;
+      font-weight: 200;
+      letter-spacing: 6px;
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    h2 {
+      color: #fff;
+      font-weight: 200;
+      letter-spacing: 3px;
+      font-size: 14px;
+      margin-top: 48px;
+    }
+    p { color: #666; }
+    a { color: #444; }
+  </style>
+</head>
+<body>
+
+  <h1>mirror</h1>
+  <p style="letter-spacing:2px; font-size:12px;">politique de confidentialité</p>
+  <p>Dernière mise à jour : 28 mai 2026</p>
+
+  <h2>1. ÉDITEUR</h2>
+  <p>
+    Mirror est édité par VANDOMIA (EI Alcantara Rémi, SIREN 531 693 570),
+    Saint-Genis-Pouilly, France.<br>
+    Contact : contact@remadia.com
+  </p>
+
+  <h2>2. DONNÉES COLLECTÉES</h2>
+  <p>
+    Mirror collecte uniquement les données nécessaires au fonctionnement de l'application :
+  </p>
+  <p>
+    — Adresse email et mot de passe (authentification via Firebase Auth)<br>
+    — Textes saisis par l'utilisateur dans les sessions d'écriture<br>
+    — Questions générées par l'IA en réponse aux écrits
+  </p>
+  <p>Aucune donnée de localisation, biométrique ou de santé n'est collectée.</p>
+
+  <h2>3. FINALITÉ DU TRAITEMENT</h2>
+  <p>
+    Les données sont utilisées exclusivement pour :<br>
+    — Permettre l'accès au compte utilisateur<br>
+    — Générer des questions philosophiques personnalisées via l'IA<br>
+    — Conserver l'historique des sessions de l'utilisateur
+  </p>
+
+  <h2>4. HÉBERGEMENT ET SOUS-TRAITANTS</h2>
+  <p>
+    — Firebase (Google) : authentification et base de données — serveurs en Europe (europe-west1)<br>
+    — Anthropic : traitement des textes pour la génération de questions
+  </p>
+
+  <h2>5. DURÉE DE CONSERVATION</h2>
+  <p>
+    Les données sont conservées tant que le compte utilisateur est actif.
+    L'utilisateur peut supprimer son compte et toutes ses données à tout moment
+    depuis l'application.
+  </p>
+
+  <h2>6. DROITS DE L'UTILISATEUR</h2>
+  <p>
+    Conformément au RGPD, l'utilisateur dispose d'un droit d'accès, de rectification,
+    de suppression et de portabilité de ses données.<br>
+    Pour exercer ces droits : contact@remadia.com
+  </p>
+
+  <h2>7. SÉCURITÉ</h2>
+  <p>
+    Les données sont stockées dans Firebase Firestore avec des règles d'accès
+    strictes — chaque utilisateur ne peut accéder qu'à ses propres données.
+    Les communications sont chiffrées via HTTPS.
+  </p>
+
+  <h2>8. CONTACT</h2>
+  <p>contact@remadia.com</p>
+
+</body>
+</html>
